@@ -1,4 +1,4 @@
-<h1 align="center"> Tutorial 3. Single File Components (Componentes de Arquivo Único) </h1>
+<h1 align="center"> Tutorial 4. Vue Router Essentials (Fundamentos do Vue Router) </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>
