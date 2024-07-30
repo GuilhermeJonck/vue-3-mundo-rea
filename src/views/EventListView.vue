@@ -15,7 +15,6 @@ onMounted(() => {
     })
 })
 </script>
-
 <template>
   <h1>Events For Good</h1>
   <div class="events">
