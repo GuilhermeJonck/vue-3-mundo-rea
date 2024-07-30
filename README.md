@@ -1,4 +1,4 @@
-<h1 align="center"> Tutorial 5. Chamadas de API Com Axios </h1>
+<h1 align="center"> Tutorial 6. Roteamento Dinâmico</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>
